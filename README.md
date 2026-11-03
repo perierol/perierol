@@ -12,8 +12,6 @@ Since moving to Frankfurt I've been building my own things.
 **[Leben in Deutschland](https://github.com/perierol/leben-in-deutschland)** prepares people for the German integration test. 460 official questions in 21 languages, right-to-left for Arabic, Persian and Pashto, the whole thing working offline. I moved here two years ago, so I know what it's like to arrive somewhere and have to learn a country from a question bank.
 [Repository](https://github.com/perierol/leben-in-deutschland)
 
-I started out writing test automation in Appium, and it stuck. My own projects still ship with unit tests, UI tests and CI, even when nobody is making me.
-
 **Tools:** Kotlin · Jetpack Compose · Coroutines & Flow · Room · Hilt · Swift · SwiftUI · Firebase · GitHub Actions · Compose UI tests · Appium
 
 **Elsewhere:** [LinkedIn](https://www.linkedin.com/in/perihan-imamoglu-erol) · [perihanimamoglu1@gmail.com](mailto:perihanimamoglu1@gmail.com)
