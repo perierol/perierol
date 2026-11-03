@@ -2,7 +2,7 @@
 
 I build mobile apps — mostly Android, in Kotlin and Compose, and lately iOS too, in Swift and SwiftUI.
 
-For eight years I worked on marketplaces in Istanbul: [sahibinden.com](https://www.sahibinden.com), [Trendyol](https://www.trendyol.com) and [arabam.com](https://www.arabam.com). The kind of apps where a bad release is noticed by a few million people before lunch. I led a Java-to-Kotlin migration, spent a year as the only Android developer on an app used by millions, and built real-time auction features from scratch.
+For eight years I worked on marketplaces in Istanbul — [sahibinden.com](https://www.sahibinden.com), [Trendyol](https://www.trendyol.com) and [arabam.com](https://www.arabam.com) — the kind of apps where a bad release is noticed by a few million people before lunch.
 
 Since moving to Frankfurt I've been building my own things.
 
