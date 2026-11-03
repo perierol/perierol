@@ -19,5 +19,3 @@ I also care about the parts users never name: how a list scrolls, what happens w
 **Tools:** Kotlin · Jetpack Compose · Coroutines & Flow · Room · Hilt · Swift · SwiftUI · Firebase · GitHub Actions · Compose UI tests · Appium
 
 **Elsewhere:** [LinkedIn](https://www.linkedin.com/in/perihan-imamoglu-erol) · [perihanimamoglu1@gmail.com](mailto:perihanimamoglu1@gmail.com)
-
-*Currently looking for an Android or mobile role in Germany — work authorised, no sponsorship needed, happy to relocate.*
