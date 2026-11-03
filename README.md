@@ -14,8 +14,6 @@ Since moving to Frankfurt I've been building my own things.
 
 I started out writing test automation in Appium, and it stuck. My own projects still ship with unit tests, UI tests and CI, even when nobody is making me.
 
-I also care about the parts users never name: how a list scrolls, what happens when the network drops mid-sync, whether the app still works on a train with no signal.
-
 **Tools:** Kotlin · Jetpack Compose · Coroutines & Flow · Room · Hilt · Swift · SwiftUI · Firebase · GitHub Actions · Compose UI tests · Appium
 
 **Elsewhere:** [LinkedIn](https://www.linkedin.com/in/perihan-imamoglu-erol) · [perihanimamoglu1@gmail.com](mailto:perihanimamoglu1@gmail.com)
